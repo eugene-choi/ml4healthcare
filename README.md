@@ -13,12 +13,22 @@ Despite the recent success of medical deep learning, two fundamental prob- lems 
 ### Brain Tumor Segmentation:
 ![brain_tumor](demo/brats_14_samples.gif)
 ### Kidney Segmentation:
-![brain_tumor](demo/kits_merged.gif)
+![kidney](demo/kits_merged.gif)
 ### Out-of-distribution detection:
 #### LiTS-BraTS
-![brain_tumor](demo/brats_ood_6.gif)
+![brain_ood](demo/brats_ood_6.gif)
+![brain_pred_entropy](demo/LiTS-BraTS-alea.png)
 #### LiTS-KiTS
-![brain_tumor](demo/kits_ood.gif)
+![kidney_ood](demo/kits_ood.gif)
+![kindey_pred_entropy](demo/LiTS-KiTS-alea.png)
+#### Ensemble size comparison:
+M = 1
+![M1](demo/LiTS-Dataset-alea-1.png)
+M = 5
+![M5](demo/LiTS-Dataset-alea-5.png)
+M = 10
+![M1](demo/LiTS-Dataset-alea-10.png)
+
 
 ## Paper
 Full paper can be found [here](https://drive.google.com/file/d/1QyUhXMmyKQlslAke4sTUXcZ6wdVsGh7R/view?usp=sharing).
