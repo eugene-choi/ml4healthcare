@@ -11,7 +11,7 @@ Despite the recent success of medical deep learning, two fundamental prob- lems 
 ## Modeling and Analysis
 
 ### Out-of-distribution detection:
-![alt text](https://drive.google.com/file/d/1fmw3BT8L4faF-25_u09OH90f_UqkaRD1/view?usp=sharing)
+![Alt Text](https://drive.google.com/file/d/1fmw3BT8L4faF-25_u09OH90f_UqkaRD1/view?usp=sharing)
 
 ## Paper
 Full paper can be found [here](https://drive.google.com/file/d/1QyUhXMmyKQlslAke4sTUXcZ6wdVsGh7R/view?usp=sharing).
