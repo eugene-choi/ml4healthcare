@@ -15,6 +15,10 @@ Despite the recent success of medical deep learning, two fundamental prob- lems 
 ### Kidney Segmentation:
 ![brain_tumor](demo/kits_merged.gif)
 ### Out-of-distribution detection:
+#### LiTS-BraTS
+![brain_tumor](demo/brats_ood_6.gif)
+#### LiTS-KiTS
+![brain_tumor](demo/kits_ood.gif)
 
 ## Paper
 Full paper can be found [here](https://drive.google.com/file/d/1QyUhXMmyKQlslAke4sTUXcZ6wdVsGh7R/view?usp=sharing).
