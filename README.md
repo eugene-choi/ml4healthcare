@@ -10,9 +10,11 @@ Despite the recent success of medical deep learning, two fundamental prob- lems 
 
 ## Modeling and Analysis
 
-### Out-of-distribution detection:
+### Brain Tumor Segmentation:
 ![brain_tumor](demo/brats_14_samples.gif)
-
+### Kidney Segmentation:
+![brain_tumor](demo/kits_merged.gif)
+### Out-of-distribution detection:
 
 ## Paper
 Full paper can be found [here](https://drive.google.com/file/d/1QyUhXMmyKQlslAke4sTUXcZ6wdVsGh7R/view?usp=sharing).
